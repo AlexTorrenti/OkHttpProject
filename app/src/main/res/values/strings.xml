@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OkHttpProject</string>
+    <string name="button_load">LOAD</string>
+</resources>
